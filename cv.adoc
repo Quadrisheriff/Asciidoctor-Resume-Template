@@ -17,18 +17,16 @@ image:gh.png[20,20] | https://github.com/Quadrisheriff
 2020  ~May~:: **Technical Writer**
 
 Company Details:::
-**Warthog**, Node.js GraphQL API framework for building consistent GraphQL APIs that have sorting, filtering and pagination out of the box. 
-* Documentation website: https://gifted-panini-c878aa.netlify.app/ 
-* GitHub: https://github.com/goldcaddy77/warthog
+**Warthog**, Node.js GraphQL API framework for building consistent GraphQL APIs that have sorting, filtering and pagination out of the box. +
+Documentation website: https://gifted-panini-c878aa.netlify.app/  | GitHub: https://github.com/goldcaddy77/warthog
 Tasks::: 
 * Created Warthog's new documentation website with Docz.
 * Improved Warthog's documentation by improving old contents, and adding new contents.
 
 2020  ~March~:: **Technical Writer.**
 Company Details:::
-**React Bulma Components**, Open source react framework. 
-* Website: https://react-bulma.io/ 
-* GitHub: https://github.com/couds/react-bulma-components 
+**React Bulma Components**, Open source react framework. +
+* Website: https://react-bulma.io/ | GitHub: https://github.com/couds/react-bulma-components 
 Tasks:::
 * Collaborated with React-Bulma developers in transferring React-Bulma documentation from storybook.js to a new documentation website created with Docusaurus. 
 * Improved React-Bulma's documentation by adding more usage examples and code samples to each component. 
@@ -36,13 +34,14 @@ Tasks:::
 2019 ~December.~:: **API Technical Writer.** 
 Company Details:::
 **Listmonk API**, 
-Open source self-hosted newsletter + mailing list.
-* Website: https://listmonk.app/ 
-* GitHub: https://github.com/knadh/listmonk-site 
+Open source self-hosted newsletter + mailing list. +
+* Website: https://listmonk.app/  |  GitHub: https://github.com/knadh/listmonk-site 
 Tasks:::
 * Created reference documentation for all listmonk’s API endpoints. 
 * Improved existing API documentation by adding request examples, response examples and API parameters to all endpoint documentation.
 * Tested all endpoint request and response calls, reported any default endpoint to listmonk’s developers.
+
+<<<
 
 [#academic-record]
 === Personal Projects
@@ -73,6 +72,8 @@ CentOS 7, Debian 9, Arch Linux +
 Others:::
 Microsoft Windows 98 - 10 +
 Mac OS X, MacOS Sierra - Catalina +
+
+<<<
 
 [#language-skills]
 === Language Skills
